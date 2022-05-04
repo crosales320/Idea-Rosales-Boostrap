@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: linear-gradient(to right, rgb(72, 70, 70), grey, rgb(72, 70, 70));
+    background-image: linear-gradient(to right, rgb(9, 119, 108), rgb(142, 222, 22), rgb(9, 119, 108));
 }
 
 .fondo {
@@ -27,7 +27,7 @@ h1 {
 }
 
 .imagen-portada {
-    padding: 50px 500px 200px 500px;
+    padding: 50px 300px 100px 500px;
 }
 
 footer {
@@ -112,15 +112,6 @@ img {
     .navegacion ul {
         display: flex;
     }
-}
-
-
-/*Galeria*/
-
-.img {
-    width: 600px;
-    height: 600px;
-    padding: 10px 50px 10px 200px;
 }
 
 
